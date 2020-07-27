@@ -1,0 +1,56 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+.head
+{
+    text-align: center;
+    font-size: 10vw;
+    border: 2px solid cyan;
+    /* border-radius: 10vw; */
+    /* margin: 0 35vw; */
+    background-color: rgb(46, 168, 168)
+    
+}
+
+.footer
+{
+    background-color: rgb(8, 185, 185);
+    text-align: center;
+}
+
+
+.size
+{
+    width: 2%;
+    height: auto;
+}
+
+
+input
+{
+    width: 50%;
+}
+
+
+
+.designform
+{   
+    padding:1vw 3vw;
+    border: 2px solid red;
+    display: flex;
+    background-color: cyan;
+    
+    flex-direction: column;
+    margin:5%  35%;
+    border-radius: 2vw;
+    
+    width: 35vw;
+}
+
+#cont3
+{
+    border:10px ;
+    height:80vh;
+}
